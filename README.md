@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | THESHWIN P S | **Reg. No.:** | 26005632 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |12-11-2026 | **Batch / Section:** |26ODJ084 |
 
 ---
 
@@ -56,7 +56,10 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the circuit diagram here ]*
+<img width="382" height="510" alt="Screenshot 2026-11-12 155949" src="https://github.com/user-attachments/assets/07c10184-774b-4b23-a383-9fc26145a76d" />
+<img width="361" height="517" alt="Screenshot 2026-11-12 160011" src="https://github.com/user-attachments/assets/0a6d0473-570c-4b15-b5c1-5c3fc250fc9f" />
+
+
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
@@ -66,13 +69,15 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="1287" height="730" alt="Screenshot 2026-11-12 152958" src="https://github.com/user-attachments/assets/83f631de-b096-40ce-93c5-d7d8dcf0beba" />
+
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1505" height="758" alt="Screenshot 2026-11-12 154019" src="https://github.com/user-attachments/assets/9ea038ce-b846-4aa6-96b0-91769998e66a" />
+
 
 **Figure 3:** Virtual Lab simulation – load test
 
